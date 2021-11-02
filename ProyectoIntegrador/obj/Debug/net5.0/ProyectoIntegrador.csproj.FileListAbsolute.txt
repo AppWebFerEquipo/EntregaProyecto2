@@ -1,0 +1,5 @@
+C:\home\ProyectoIntegrador\obj\Debug\net5.0\ProyectoIntegrador.csproj.AssemblyReference.cache
+C:\home\ProyectoIntegrador\obj\Debug\net5.0\ProyectoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\ProyectoIntegrador\obj\Debug\net5.0\ProyectoIntegrador.AssemblyInfoInputs.cache
+C:\home\ProyectoIntegrador\obj\Debug\net5.0\ProyectoIntegrador.AssemblyInfo.cs
+C:\home\ProyectoIntegrador\obj\Debug\net5.0\ProyectoIntegrador.csproj.CoreCompileInputs.cache

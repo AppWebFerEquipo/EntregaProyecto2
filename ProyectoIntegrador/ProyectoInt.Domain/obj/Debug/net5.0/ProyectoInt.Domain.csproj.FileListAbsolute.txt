@@ -1,0 +1,12 @@
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\bin\Debug\net5.0\ProyectoInt.Domain.deps.json
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\bin\Debug\net5.0\ProyectoInt.Domain.dll
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\bin\Debug\net5.0\ref\ProyectoInt.Domain.dll
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\bin\Debug\net5.0\ProyectoInt.Domain.pdb
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ProyectoInt.Domain.csproj.AssemblyReference.cache
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ProyectoInt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ProyectoInt.Domain.AssemblyInfoInputs.cache
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ProyectoInt.Domain.AssemblyInfo.cs
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ProyectoInt.Domain.csproj.CoreCompileInputs.cache
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ProyectoInt.Domain.dll
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ref\ProyectoInt.Domain.dll
+C:\home\ProyectoIntegrador\ProyectoInt.Domain\obj\Debug\net5.0\ProyectoInt.Domain.pdb
